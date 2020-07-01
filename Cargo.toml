@@ -5,4 +5,4 @@ authors = ["Hansie Odendaal <pluto@tari.com>"]
 edition = "2018"
 
 [dependencies]
-
+num = "0.3"
