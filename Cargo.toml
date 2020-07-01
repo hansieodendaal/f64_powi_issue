@@ -1,0 +1,8 @@
+[package]
+name = "f64_powi_issue"
+version = "0.1.0"
+authors = ["Hansie Odendaal <pluto@tari.com>"]
+edition = "2018"
+
+[dependencies]
+
